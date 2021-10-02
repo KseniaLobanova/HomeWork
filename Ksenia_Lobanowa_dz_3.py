@@ -20,7 +20,7 @@ def num_translate(eng_word):
 
 print(num_translate('seven'))
 
-# Task 2
+# Task2
 
 eng_rus_dict = {
     'one': 'один',
